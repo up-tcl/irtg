@@ -1,0 +1,15 @@
+navbar:
+  - section: General
+    entries:
+      - title: Index
+        url: /index.html
+      - title: Test page
+        url: /test.html
+  - section: Part Two
+    entries:
+      - title:    Page 3
+        nonlocal: True
+        url:      http://www.google.com/
+
+
+         
